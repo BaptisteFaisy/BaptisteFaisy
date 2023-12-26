@@ -2,3 +2,6 @@
 
 - 🔭 I’m currently working on C++01
 - :sleeping: I'm waiting @HADMARINE for Minishell, we start on february 1
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?BaptisteFaisy=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
